@@ -8,13 +8,13 @@ As árvores k-d são estruturas de dados utilizadas para realizar o particioname
 O desenvolvimento do projeto foi dividido em duas etapas, a primeira o estudo de conhecimentos fundamentais de algoritimos, estruturas de dados e geometria computacional. Na segunda parte, o aprofundamento em árvores kd, implementacao, e experimentos com bases de dados sinteticas.
 
 ### Etapa 1:
-- Conceitos básicos em algoritmos, estruturas de dados e análise de algoritmos
-- Árvores binárias de busca
-- Geometria computacional
+- Conceitos básicos em algoritmos, estruturas de dados e análise de algoritmos.
+- Árvores binárias de busca..
+- Geometria computacional.
 - Compreensão do problema do vizinho mais próximo.
 
 ### Etapa 2:
-- Introducão às árvores k-d e
-- Implementação da estrutura de dados
+- Introducão às árvores k-d.
+- Implementação da estrutura de dados.
 - Realizacão de experimentos em bases de dados: variando tamanho, distribuicão e dimensionalidade.
-- Ánalise dos resultados obtidos
+- Ánalise dos resultados obtidos.
