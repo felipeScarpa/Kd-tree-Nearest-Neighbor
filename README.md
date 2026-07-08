@@ -9,7 +9,7 @@ O desenvolvimento do projeto foi dividido em duas etapas, a primeira o estudo de
 
 ### Etapa 1:
 - Conceitos básicos em algoritmos, estruturas de dados e análise de algoritmos.
-- Árvores binárias de busca..
+- Árvores binárias de busca.
 - Geometria computacional.
 - Compreensão do problema do vizinho mais próximo.
 
