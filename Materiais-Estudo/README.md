@@ -6,4 +6,5 @@ Nesta seção estão reunidos os livros, sites, artigos, documentos, problemas, 
 - https://www.ime.usp.br/~pf/algoritmos/aulas/recu.html#sec:example
 - https://codeforces.com/group/MWSDmqGsZm/contest/223339
 - https://cses.fi/problemset/task/2165
+- https://cses.fi/problemset/task/1624/
 - https://atcoder.jp/contests/arc223/tasks/arc223_a
